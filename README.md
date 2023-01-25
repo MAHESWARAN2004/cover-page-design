@@ -140,4 +140,4 @@ Write HTML and CSS code for disigning book cover page and execute them.
 ![cover_page](./img/cover.png)
 
 ## Result:
-Write your result
+The project for designing book cover page using HTML and CSS is executed successfully.
